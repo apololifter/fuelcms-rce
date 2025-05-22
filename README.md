@@ -19,5 +19,5 @@ Este exploit permite ejecutar comandos de forma remota en servidores que corren 
 
 ## 🚀 Uso
 
-![image](https://github.com/user-attachments/assets/3c1a499e-0fd7-4209-8494-29b18acbc903)
-
+![Captura](https://github.com/user-attachments/assets/239d5466-fed9-4689-a975-8df9fc05a234)
+![Captura2](https://github.com/user-attachments/assets/293149e5-6209-4001-829c-3d8520e755aa)
